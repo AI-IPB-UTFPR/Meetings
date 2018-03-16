@@ -1,4 +1,10 @@
 ___
+# Day 2 - 16/03/2018
+
+Python3 Intro.ipynb
+https://goo.gl/6p2qXx
+
+___
 # Day 1 - 09/03/2018
 
 Building Blocks of AI Interpretability | Two Minute Papers #234
