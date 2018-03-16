@@ -1,9 +1,11 @@
 ___
 # Day 2 - 16/03/2018
 
-Python3 Intro.ipynb
+Python3 Intro:
 https://goo.gl/6p2qXx
 
+Python Classes Cheat Sheet:
+https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_classes.pdf
 ___
 # Day 1 - 09/03/2018
 
