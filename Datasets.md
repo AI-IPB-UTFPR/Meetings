@@ -8,6 +8,6 @@
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
 
-[Sub-Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#publicdomains).
+[Sub-Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#publicdomains): Just pay attention how awesome this section is!
 
 [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris): :D
