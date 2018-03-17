@@ -7,3 +7,7 @@
 [Where can I find large datasets open to the public?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public): Respostas de uma questão no Quora sobre datasets públicos.
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
+
+[Sub-Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#publicdomains).
+
+[Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris): :D
