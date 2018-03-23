@@ -1,9 +1,12 @@
 ___
 # Day 3 - 23/03/2018
+É ESSE!
 https://drive.google.com/file/d/1ut0CNIp_5v397WHOS8V_ev7TXfz1tFdG/view?usp=sharing
 
 https://www.seleniumhq.org/
+
 https://scrapy.org/
+
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ___
