@@ -1,5 +1,8 @@
 # Day 4 - 06/04/2018
 
+Data Cleaning Challenge: Handling missing values
+https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values
+
 Preparação1:
 https://drive.google.com/file/d/12GyHO3_vgUR-7tjALTI-Pr3JP_kqgvVJ/view?usp=sharing
 
