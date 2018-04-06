@@ -1,3 +1,11 @@
+# Day 4 - 06/04/2018
+
+Preparação1:
+https://drive.google.com/file/d/12GyHO3_vgUR-7tjALTI-Pr3JP_kqgvVJ/view?usp=sharing
+
+Preparação/Análise:
+https://drive.google.com/file/d/10Ed82uIXAxtE7CJihCcwjVzWvLwDlolq/view?usp=sharing
+
 ___
 # Day 3 - 23/03/2018
 É ESSE!
