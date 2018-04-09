@@ -11,7 +11,8 @@ https://drive.google.com/file/d/10Ed82uIXAxtE7CJihCcwjVzWvLwDlolq/view?usp=shari
 
 ___
 # Day 3 - 23/03/2018
-É ESSE!
+Scraping nosso
+
 https://drive.google.com/file/d/1ut0CNIp_5v397WHOS8V_ev7TXfz1tFdG/view?usp=sharing
 
 https://www.seleniumhq.org/
