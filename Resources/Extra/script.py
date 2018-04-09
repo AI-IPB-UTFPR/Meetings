@@ -4,6 +4,7 @@ import os
 import shutil
 import threading
 import urllib.request
+import magic
 
 if len(sys.argv) < 2:
     print("Invalid arguments: <file> <folder> <[list of error ids]>")
@@ -48,7 +49,10 @@ def request():
                 create_dir(sys.argv[2]+'/'+str(ann[idx]['label_id']))
                 try:
                     fname, header = urllib.request.urlretrieve(imgs[idx]['url'][0])
-                    ftype = header['Content-Type'].split("/")[-1]
+                    #ftype = header['Content-Type'].split("/")[-1]
+                    ftype = magic.from_file(fname, mime=True)
+                    ftype = ftype.split("/")[-1]
+                    
                     shutil.move(fname, sys.argv[2]+'/'+str(ann[idx]['label_id'])+'/'+str(ann[idx]['image_id'])+'.'+ftype)
                     print(ann[idx]['image_id'], "OK")
                 except Exception as e:
