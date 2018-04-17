@@ -1,7 +1,6 @@
 # Day 5 - 13/04/2018
 
 Tutorial Classification NVIDIA DIGITS Caffe:
-
 https://github.com/humphd/have-fun-with-machine-learning
 
 OpenMined:
