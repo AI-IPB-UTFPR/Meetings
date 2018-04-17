@@ -1,6 +1,40 @@
 # Day 5 - 13/04/2018
 
-https://colab.research.google.com/drive/1mTXqU-9BcMew--VhtDnzSFlp0k_IiKcG
+Tutorial Classification NVIDIA DIGITS Caffe:
+
+https://github.com/humphd/have-fun-with-machine-learning
+
+OpenMined:
+
+https://www.openmined.org/
+
+FHE:
+
+https://3.bp.blogspot.com/-0JtgZVbYtdk/UHvpjKSap4I/AAAAAAAAAG8/J35BvRlOCb0/s1600/FHE.jpg
+
+Image Segmentation with NVIDIA DIGITS:
+
+https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
+
+NVIDIA DIGITS:
+
+https://github.com/NVIDIA/DIGITS
+
+iMaterialist Challenge (Furniture):
+
+https://www.kaggle.com/c/imaterialist-challenge-furniture-2018
+
+Script download images from google:
+
+https://github.com/hardikvasa/google-images-download
+
+Conv Nets: A Modular Perspective:
+
+http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+
+Visualizar Convnet:
+
+http://scs.ryerson.ca/~aharley/vis/conv/
 
 # Day 4 - 06/04/2018
 
