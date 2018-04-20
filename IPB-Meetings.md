@@ -1,6 +1,10 @@
 ___
 # Day 6 - 20/04/2018
 
+[Skydio R1](https://www.youtube.com/watch?v=gsfkGlSajHQ)
+
+[Quadcopter Navigation in the Forest using Deep Neural Networks](https://www.youtube.com/watch?v=umRdt3zGgpU)
+
 [NVIDIA End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
 
 [(Extra) Explaining How End-to-End Deep Learning Steers a Self-Driving Car](https://devblogs.nvidia.com/explaining-deep-learning-self-driving-car/)
@@ -9,7 +13,15 @@ ___
 
 [(Extra) Paper End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 
+[(Clone) car-behavioral-cloning](https://github.com/naokishibuya/car-behavioral-cloning)
 
+[(Download) Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
+
+[(Extra) Sentdex Self-Driving GTA5](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
+
+[(Extra) How to Simulate a Self-Driving Car](https://www.youtube.com/watch?v=EaY5QiZwSP4&feature=youtu.be)
+
+[Data augmentation with brightness control](https://gist.github.com/AvsThiago/b54662e7c5c800ee739ed0848af7ae12)
 ___
 # Day 5 - 13/04/2018
 
