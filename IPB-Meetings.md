@@ -1,3 +1,9 @@
+___
+# Day 6 - 20/04/2018
+
+[NVIDIA End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
+
+___
 # Day 5 - 13/04/2018
 
 Tutorial Classification NVIDIA DIGITS Caffe:
@@ -27,6 +33,7 @@ http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
 Visualizar Convnet:
 http://scs.ryerson.ca/~aharley/vis/conv/
 
+___
 # Day 4 - 06/04/2018
 
 Data Cleaning Challenge: Handling missing values
