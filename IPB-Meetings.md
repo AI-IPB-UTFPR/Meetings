@@ -3,6 +3,13 @@ ___
 
 [NVIDIA End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
 
+[(Extra) Explaining How End-to-End Deep Learning Steers a Self-Driving Car](https://devblogs.nvidia.com/explaining-deep-learning-self-driving-car/)
+
+[(Extra) Explaining How End-to-End Deep Learning Steers a Self-Driving Car](https://devblogs.nvidia.com/explaining-deep-learning-self-driving-car/)
+
+[(Extra) Paper End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+
+
 ___
 # Day 5 - 13/04/2018
 
