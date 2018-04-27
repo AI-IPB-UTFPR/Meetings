@@ -12,6 +12,8 @@ ___
 [VISUALIZING AND UNDERSTANDING RECURRENT NETWORKS](https://arxiv.org/pdf/1506.02078.pdf)
 
 [Abstract generator](https://drive.google.com/file/d/1i5Bs1-9X8R89y3Knuvd2DyoIXoOxN8SG/view?usp=sharing)
+
+[Script Download Images Google](https://github.com/hardikvasa/google-images-download)
 ___
 # Day 6 - 20/04/2018
 
