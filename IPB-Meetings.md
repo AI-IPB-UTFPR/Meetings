@@ -1,4 +1,16 @@
 ___
+# Day 7 - 27/04/2018
+
+[Algorithmia](https://algorithmia.com/algorithms)
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+[Char RNN Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
+
+[Andrej Karpathy, Research Scientist, OpenAI](https://www.youtube.com/watch?v=qPcCk1V1JO8)
+
+[VISUALIZING AND UNDERSTANDING RECURRENT NETWORKS](https://arxiv.org/pdf/1506.02078.pdf)
+___
 # Day 6 - 20/04/2018
 
 [Skydio R1](https://www.youtube.com/watch?v=gsfkGlSajHQ)
