@@ -10,6 +10,8 @@ ___
 [Andrej Karpathy, Research Scientist, OpenAI](https://www.youtube.com/watch?v=qPcCk1V1JO8)
 
 [VISUALIZING AND UNDERSTANDING RECURRENT NETWORKS](https://arxiv.org/pdf/1506.02078.pdf)
+
+[Abstract generator](https://drive.google.com/file/d/1i5Bs1-9X8R89y3Knuvd2DyoIXoOxN8SG/view?usp=sharing)
 ___
 # Day 6 - 20/04/2018
 
