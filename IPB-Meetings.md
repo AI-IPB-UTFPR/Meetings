@@ -2,6 +2,12 @@ ___
 # Day 8 - 04/05/2018
 
 [Deep Wine](https://drive.google.com/file/d/1oOW38uOFMBjgRsr_Ll3tKEReyVsMe5Gr/view?usp=sharing)
+
+[One-Hot encoder](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+
+[Bag of Words](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+
+[Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews/data)
 ___
 # Day 7 - 27/04/2018
 
